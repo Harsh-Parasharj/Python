@@ -948,8 +948,6 @@ for city, information in cities.items():
 # This output provides a comprehensive overview of each city, including additional details that enhance the information presented
 
 
-
-cd 
 #                                                     Summary of this chapter 
 
 # In this chapter you learned how to define a dictionary and how to work 
